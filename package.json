@@ -1,0 +1,17 @@
+{
+  "name": "example-pwa",
+  "version": "1.0.0",
+  "description": "Review of yt-example-pwa, youtube course by Maximilian Schwarzmüller.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8081"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "authors": "Maximilian Schwarzmüller, Dang Chuong Pham",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
