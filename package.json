@@ -4,7 +4,7 @@
   "description": "Review of yt-example-pwa, youtube course by Maximilian Schwarzmüller.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-1 -p 8081"
+    "start": "http-server -c-1 -p 8082"
   },
   "keywords": [
     "pwa"
